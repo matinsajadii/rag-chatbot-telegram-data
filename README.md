@@ -1,3 +1,3 @@
 # rag-chatbot-telegram-data-
 
-<image src="https://www.freepik.com/free-vector/chat-bot-concept-illustration_13317063.htm#fromView=search&page=1&position=2&uuid=8a9b9854-4ac7-446b-9003-58c650bde906">
+<image src="https://images.ctfassets.net/ukazlt65o6hl/1rWCLaP3w1iMUSkZsg9dG4/ab39b7646762b37b2296c07ae08182ff/MicrosoftTeams-image__55_.png?w=750&h=386&fl=progressive&q=70&fm=jpg">
