@@ -21,17 +21,19 @@ Welcome to the **RAG Chatbot**! This application allows you to upload a PDF file
 
 2. **Install the required dependencies:**
 
-- ``pip install -r requirements.txt``
+   ```bash
+   pip install -r requirements.txt
 
 Ensure you have the following libraries installed:
 
 - `streamlit`
 - `pandas`
-- `utils` (a custom module containing the `RAGChatbot` class)
+- `utils` (a custom module containing the **RAGChatbot** class)
 
 3. **Run the application:**
 
-- ``streamlit run app.py``
+   ```bash
+   streamlit run app.py
 
 ## Usage
 
